@@ -1,5 +1,5 @@
-.idea
+../.idea
 .venv
 instance
 __pycache__
-website/.env
+.env
